@@ -30,6 +30,11 @@ Making sense of genomic and expression data.
 - **[RNAseq_Luana](https://github.com/boumbo85/RNAseq_Luana)** — RNA-seq differential expression analysis *(private)*.
 - **[HACKATON_JEBIF_2024](https://github.com/boumbo85/HACKATON_JEBIF_2024)** — reproducible pipelines with Docker & Nextflow.
 
+### ☁️ Big Data & Cloud
+Distributed pipelines that scale on managed infrastructure.
+
+- **[p8-fruits-pyspark-aws](https://github.com/boumbo85/p8-fruits-pyspark-aws)** — distributed image feature extraction on AWS EMR (PySpark + MobileNetV2 + PCA). ✅ *public*
+
 ### 📊 Machine Learning & Deployment
 End-to-end models, from notebook to live API.
 
